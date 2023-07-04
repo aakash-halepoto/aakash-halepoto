@@ -36,11 +36,5 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aakash-halepoto/aakash-halepoto/output/snake.svg" alt="Snake animation" />
-
-###
 
