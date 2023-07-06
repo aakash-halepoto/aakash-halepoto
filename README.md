@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
 
-I am Aakash Sindhi here, Flutter Developer from Pakistan, 
+I'm Aakash Sindhi, Flutter Developer from Pakistan, 
 
 - 🔭 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on Open Source Projects.
