@@ -26,7 +26,7 @@ I'm Aakash Sindhi, Flutter Developer from Pakistan,
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=aakash-halepoto)
+[![](https://visitcount.itsvg.in/api?id=aakash-halepoto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
