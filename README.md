@@ -10,9 +10,6 @@ I'm Aakash Sindhi, a Software Engineer from Pakistan transitioning into AI Engin
 - 📫 Reach me: aakashraza0@gmail.com
 - 😄 Pronouns: He/Him
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aakash-halepoto)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]
-
 **Languages and Tools:**
 
 <img align="left" alt="Python" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" />
