@@ -11,9 +11,7 @@ I'm Aakash Sindhi, a Software Engineer from Pakistan transitioning into AI Engin
 - 😄 Pronouns: He/Him
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/aakash-halepoto)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-halepoto/)
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aakash-halepoto&theme=chartreuse-dark" />
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]
 
 **Languages and Tools:**
 
